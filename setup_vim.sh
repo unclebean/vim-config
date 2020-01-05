@@ -8,3 +8,5 @@ vim +PluginInstall +qall
 echo "dont forget to install / update YoucompleteMe"
 echo "https://github.com/j1z0/dotfiles.git"
 
+#cd ~/.vim/bundle/youcompleteme
+#install.py --clang-completer --js-completer
