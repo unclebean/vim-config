@@ -119,3 +119,5 @@ if has('gui_running')
 else
   colorscheme zenburn
 endif
+
+set undofile " Maintain undo history between sessions
