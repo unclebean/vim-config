@@ -38,6 +38,10 @@ Plugin 'tmhedberg/SimpylFold'
 Plugin 'altercation/vim-colors-solarized'
 Plugin 'jnurmine/Zenburn'
 
+"Clojure
+Plugin 'tpope/vim-fireplace'
+Plugin 'eapache/rainbow_parentheses.vim'
+
 call vundle#end()
 
 filetype plugin indent on    " enables filetype detection
